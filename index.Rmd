@@ -24,6 +24,12 @@ Study load: 0.5 ECTS
 
 Location: Online
 
+Full week courses in Text Mining:
+
+- [Applied Text Mining in Python](https://utrechtsummerschool.nl/courses/social-sciences/data-science-applied-text-mining)
+
+- [Introduction to Text Mining with R](https://utrechtsummerschool.nl/courses/social-sciences/data-science-introduction-to-text-mining-with-r)
+
 ---
 
 
