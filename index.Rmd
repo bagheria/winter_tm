@@ -149,9 +149,17 @@ We adapt the course as we go. To ensure that you work with the latest iteration 
 
 Here you will find the practical files for the lab sessions:
 
-- [Practical 1](pracitcals/practical_01.html)
-- [Practical 2](pracitcals/practical_02.html)
-- [Practical 3](pracitcals/practical_03.html)
+Practical 1:
+
+- [Practical 1](pracitcals/Practical 1/practical_01.html)
+- [Data for Practical 1](pracitcals/Practical 1/data.zip)
+- [Practical 1_Answers](pracitcals/Practical 1/practical_01_answers.html)
+
+
+Practical 2:
+
+* [Practical 2](pracitcals/practical_02.html)
+* [Practical 3](pracitcals/practical_03.html)
 
 
 
