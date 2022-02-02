@@ -74,13 +74,13 @@ Participants will receive a certificate at the end of the course.
 | Start time | End time | Type      |
 |:-----------|:---------|:----------|
 |  09:00     | 10:00    | Introduction   |
-|  10:00     | 10:55    | Practical 1 |
+|  10:00     | 10:50    | Practical 1 |
 |            |**Short break** |           |
 |  11:00     | 11:15    | Discussion|
 |            |**Break** |           |
 |  11:30     | 12:30    | Text classification   |
 |            |**Lunch break** |           |
-|  13:30     | 14:25    | Practical 2 |
+|  13:30     | 14:20    | Practical 2 |
 |            |**Short break** |           |
 |  14:30     | 14:45    | Discussion|
 |            |**Break** |           |
