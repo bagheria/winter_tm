@@ -158,8 +158,13 @@ Practical 1:
 
 Practical 2:
 
-* [Practical 2](practicals/practical_02.html)
-* [Practical 3](practicals/practical_03.html)
+* [Practical 2](practicals/Practical 2/Practical_02.html)
+* [Practical 2_Answers](practicals/Practical 2/Practical_02_answers.html)
+
+Practical 3:
+
+- [Practical 3](practicals/Practical 3/Practical_03.html)
+- [Practical 3_Answers](practicals/Practical 3/Practical_03_answers.html)
 
 
 
