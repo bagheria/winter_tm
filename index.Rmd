@@ -169,8 +169,8 @@ Practical 3:
 
 
 # Archive
-All of the course materials are available in one compact file for download at the end of the course day:
+All of the course materials are available in one compact file for download:
 
-[Download the Materials](materials/Applied_TM_all_materials.zip)
+[Download the Materials](materials/all_materials.zip)
 
 I wish all the participants success with their Text Mining projects!
