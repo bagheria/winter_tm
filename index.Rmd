@@ -151,15 +151,15 @@ Here you will find the practical files for the lab sessions:
 
 Practical 1:
 
-- [Practical 1](pracitcals/Practical 1/practical_01.html)
-- [Data for Practical 1](pracitcals/Practical 1/data.zip)
-- [Practical 1_Answers](pracitcals/Practical 1/practical_01_answers.html)
+- [Practical 1](practicals/Practical 1/practical_01.html)
+- [Data for Practical 1](practicals/Practical 1/data.zip)
+- [Practical 1_Answers](practicals/Practical 1/practical_01_answers.html)
 
 
 Practical 2:
 
-* [Practical 2](pracitcals/practical_02.html)
-* [Practical 3](pracitcals/practical_03.html)
+* [Practical 2](practicals/practical_02.html)
+* [Practical 3](practicals/practical_03.html)
 
 
 
