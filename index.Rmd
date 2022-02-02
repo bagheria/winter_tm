@@ -164,7 +164,7 @@ Practical 2:
 
 
 # Archive
-All of the course materials are available in one compact file for download:
+All of the course materials are available in one compact file for download at the end of the course day:
 
 [Download the Materials](materials/Applied_TM_all_materials.zip)
 
