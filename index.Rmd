@@ -52,7 +52,7 @@ The course deals with the following topics:
 
 
 ### Requirements
-Participants should have a basic knowledge of data science and programming and a motivation of scripting and programming in Python.
+Participants should have a basic knowledge of data science and programming and a motivation of scripting in Python.
 
 ### Prerequisites
 Participants are requested to bring their own laptop for the lab meetings.
