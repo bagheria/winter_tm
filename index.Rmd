@@ -174,3 +174,5 @@ All of the course materials are available in one compact file for download:
 [Download the Materials](materials/all_materials.zip)
 
 I wish all the participants success with their Text Mining projects!
+
+Ayoub
