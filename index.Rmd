@@ -58,7 +58,7 @@ Participants should have a basic knowledge of data science and programming and a
 Participants are requested to bring their own laptop for the lab meetings.
 
 ### Certificate
-Participants will receive a certificate at the end of the course.
+Participants will receive their certificate from the Utrecht Summer School office next week.
 
 ### Additional references
 1- Jurafsky, D., Martin, J.H. (2021). Speech and language processing, third edition. Find online chapters [here](https://web.stanford.edu/~jurafsky/slp3/)
