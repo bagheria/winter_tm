@@ -8,7 +8,7 @@ output:
 ---
 
 # Intro {.sidebar}
-This dashboard covers the course materials for the course [S006: Text Analysis with Python](https://utrechtsummerschool.nl/courses/social-sciences/text-analysis-with-python).
+This dashboard contains the course materials for the course [S006: Text Analysis with Python](https://utrechtsummerschool.nl/courses/social-sciences/text-analysis-with-python).
 
 
 ---
@@ -22,7 +22,7 @@ Course director: [Ayoub Bagheri](https://ayoubbagheri.nl/)
 
 Study load: 0.5 ECTS
 
-Location: Online
+Location: Sjoerd Groenman Building, room C024 (Padualaan 14, Utrecht Science Park, https://www.uu.nl/en/sjoerd-groenman-building)
 
 Full week courses in Text Mining:
 
@@ -40,11 +40,11 @@ Full week courses in Text Mining:
 
 ### Outline
 
-This course introduces the basic concepts of text analysis in Python. In this course, participants will learn how to apply text mining methods on text data and analyse them in a pipeline with machine learning and natural language processing algorithms. The course has a strongly practical hands-on focus, and participants will gain experience in using text mining on real data.
+This course introduces the basic concepts of text analysis in Python. Participants will learn how to apply text mining methods to text data and analyse it in a pipeline with machine learning and natural language processing algorithms. The course has a strong practical focus, and participants will gain experience in applying text mining to real data.
 
-Given the rapid rate at which text data are being digitally gathered in many domains of science, there is growing need for automated tools that can analyse, classify, and interpret this kind of data. Text mining techniques can be applied to create a structured representation of text, making its content more accessible for researchers. Applications of text mining are everywhere: social media, web search, advertising, emails, customer service, healthcare, marketing, etc. This course offers an exploration into text mining with Python. The course has a strongly practical hands-on focus, and students will gain experience in using text mining on real data. Through lectures and practicals, the students will learn some of the skills to design, implement, and understand their own text mining pipeline. The topics in this course include pre-processing text, text classification, and word embedding.
+With the rapid growth of digital textual data in many areas of science, there is a growing need for automated tools that can analyse, classify and interpret this type of data. Text mining techniques can be used to create a structured representation of text, making its content more accessible to researchers. Text mining applications are everywhere: social media, web search, advertising, email, customer service, healthcare, marketing, etc. This course provides an exploration of text mining with Python. The course has a strong practical focus and students will gain experience in applying text mining to real data. Through lectures and labs, students will learn some of the skills needed to design, implement and understand their own text mining pipeline. Topics covered in this course include text pre-processing, text classification and word embedding.
 
-The course deals with the following topics:
+The course covers the following topics:
 
 * Review the fundamental approaches to text mining
 * Understand and apply current methods for analyzing texts
@@ -61,7 +61,7 @@ Participants are requested to bring their own laptop for the lab meetings.
 Participants will receive their certificate from the office of Utrecht Summer School one week after the course.
 
 ### Additional references
-1- Jurafsky, D., Martin, J.H. (2021). Speech and language processing, third edition. Find online chapters [here](https://web.stanford.edu/~jurafsky/slp3/)
+1- Jurafsky, D., Martin, J.H. (2023). Speech and language processing, third edition. Find online chapters [here](https://web.stanford.edu/~jurafsky/slp3/)
 
 
 2- Eisenstein, J. (2018). Natural Language Processing. Find online chapters [here](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
@@ -71,21 +71,22 @@ Participants will receive their certificate from the office of Utrecht Summer Sc
 
 ### Schedule
 
-| Start time | End time | Type      |
-|:-----------|:---------|:----------|
-|  09:00     | 10:00    | Introduction   |
-|  10:00     | 10:50    | Practical 1 |
-|            |**Short break** |           |
-|  11:00     | 11:15    | Discussion|
-|            |**Break** |           |
-|  11:30     | 12:30    | Text classification   |
-|            |**Lunch break** |           |
-|  13:30     | 14:20    | Practical 2 |
-|            |**Short break** |           |
-|  14:30     | 14:45    | Discussion|
-|            |**Break** |           |
-|  15:00     | 16:00    | Word embedding |
-|  16:00     | 17:00    | Practical 3 & Discussion|
+| Start time | End time       | Type                |
+|:-----------|:---------------|:--------------------|
+|  09:00     | 10:00          | Introduction        |
+|  10:00     | 10:50          | Practical 1         |
+|            |**Short break** |                     |
+|  11:00     | 11:15          | Discussion          |
+|            |**Break**       |                     |
+|  11:30     | 12:30          | Text classification |
+|            |**Lunch break** |                     |
+|  13:30     | 14:20          | Practical 2         |
+|  14:20     | 14:35          | Discussion          |
+|            |**Short break** |                     |
+|  14:45     | 15:45          | Word embedding      |
+|            |**Break**       |                     |
+|  16:00     | 16:45          | Practical 3         |
+|  16:45     | 17:00          | Discussion          |
 
 
 # How to prepare
@@ -96,17 +97,18 @@ Participants will receive their certificate from the office of Utrecht Summer Sc
 
 Dear all,
 
-This winter you will participate in the online course S006: Text Analysis with Python in Utrecht SummerSchool, the Netherlands. To realize a steeper learning curve, we will use some functionality from the Python programming language using Google Colab. The below steps guide you through how to use Python and work on the practicals in this course.
+This winter you will attend the course S006: Text Analysis with Python at the Utrecht Summer School in the Netherlands. In order to achieve a steeper learning curve, we will use some features of the Python programming language with Google Colab. The following steps will guide you through the use of Python and the exercises in this course.
 
-Here you can find some useful information to follow the course online: [this instructional page on MS Teams.](https://www.uu.nl/en/education/quality-and-innovation/remote-teaching/microsoft-teams)
 
-Looking forward to see you all online.
+<!-- Here you can find some useful information to follow the course online: [this instructional page on MS Teams.](https://www.uu.nl/en/education/quality-and-innovation/remote-teaching/microsoft-teams) -->
+
+<!-- Looking forward to see you all online. -->
 
 _Ayoub Bagheri_
 
 ### System requirements
 
-Bring a laptop computer to the course and make sure that you have an Internet connection to be able to use Python in Google Colab. If you are using PyCharm or Jupyte Notebook, also check that you have full write access and administrator rights to the machine. We will explore programming and compiling in this course. Some corporate laptops come with limited access for their users, we therefore advice you to bring a personal laptop computer, if you have one.
+Bring a laptop to the course and make sure you have an internet connection to use Python in Google Colab. If you are using PyCharm or Jupyte Notebook, please also ensure that you have full write and administrative rights to the machine. We will cover programming and compiling in this course. Some corporate laptops come with limited access for their users, so we advise you to bring a personal laptop if you have one.
 
 ### Python in Google Colab
 Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. It is a powerful environment for scientific computing.
@@ -132,9 +134,9 @@ I prefer to use Jupyter Notebook or PyCharm when I am not using Google Colab.
 
 ### Lectures
 
-We adapt the course as we go. To ensure that you work with the latest iteration of the course materials, we advice all course participants to access the materials online.
+We adapt the course as we go along. To ensure that you are working with the latest version of the course materials, we encourage all students to access the materials online.
 
-Here you will find the lecture slides:
+You can find the lecture slides here:
 
 - [Lecture 1: Introduction](lectures/lecture_01.pdf)
 - [Lecture 2: Text classification](lectures/lecture_02.pdf)
@@ -145,7 +147,7 @@ Here you will find the lecture slides:
 
 ### Practicals
 
-We adapt the course as we go. To ensure that you work with the latest iteration of the course materials, we advice all course participants to access the materials online.
+We adapt the course as we go along. To ensure that you are working with the latest version of the course materials, we encourage all students to access the materials online.
 
 Here you will find the practical files for the lab sessions:
 
