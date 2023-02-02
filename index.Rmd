@@ -46,9 +46,9 @@ With the rapid growth of digital textual data in many areas of science, there is
 
 The course covers the following topics:
 
-* Review the fundamental approaches to text mining
-* Understand and apply current methods for analyzing texts
-* Define a text mining pipeline given a practical data science problem
+* Review the basic approaches to text mining
+* Understanding and applying current methods for analysing text
+* Defining a text mining pipeline given a practical data science problem
 
 
 ### Requirements
