@@ -24,7 +24,7 @@ Study load: 0.5 ECTS
 
 Location: Sjoerd Groenman Building, room C024 (Padualaan 14, Utrecht Science Park, https://www.uu.nl/en/sjoerd-groenman-building)
 
-Full week courses in Text Mining:
+Full week text mining courses:
 
 - [Applied Text Mining in Python](https://utrechtsummerschool.nl/courses/social-sciences/data-science-applied-text-mining)
 
