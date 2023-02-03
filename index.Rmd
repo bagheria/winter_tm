@@ -34,7 +34,7 @@ Full week text mining courses:
 
 
 
-# Quick Overview
+# Home
 
 ## Column 1
 
@@ -153,19 +153,19 @@ Here you will find the practical files for the lab sessions:
 
 Practical 1:
 
-- [Practical 1](practicals/Practical 1/Practical_01.html)
+<!-- - [Practical 1](practicals/Practical 1/Practical_01.html) -->
 - [Data for Practical 1](practicals/Practical 1/data.zip)
 - [Practical 1_Answers](practicals/Practical 1/Practical_01_answers.html)
 
 
 Practical 2:
 
-* [Practical 2](practicals/Practical 2/Practical_02.html)
+<!-- * [Practical 2](practicals/Practical 2/Practical_02.html) -->
 * [Practical 2_Answers](practicals/Practical 2/Practical_02_answers.html)
 
 Practical 3:
 
-- [Practical 3](practicals/Practical 3/Practical_03.html)
+<!-- - [Practical 3](practicals/Practical 3/Practical_03.html) -->
 - [Practical 3_Answers](practicals/Practical 3/Practical_03_answers.html)
 
 
