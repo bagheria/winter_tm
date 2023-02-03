@@ -75,14 +75,14 @@ Participants will receive their certificate from the office of Utrecht Summer Sc
 |:-----------|:---------------|:--------------------|
 |  09:00     | 10:00          | Introduction        |
 |  10:00     | 10:50          | Practical 1         |
-|            |**Short break** |                     |
+|            |**Break** |                     |
 |  11:00     | 11:15          | Discussion          |
 |            |**Break**       |                     |
 |  11:30     | 12:30          | Text classification |
 |            |**Lunch break** |                     |
 |  13:30     | 14:20          | Practical 2         |
 |  14:20     | 14:35          | Discussion          |
-|            |**Short break** |                     |
+|            |**Break** |                     |
 |  14:45     | 15:45          | Word embedding      |
 |            |**Break**       |                     |
 |  16:00     | 16:45          | Practical 3         |
