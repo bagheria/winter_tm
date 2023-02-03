@@ -175,6 +175,13 @@ All of the course materials are available in one compact file for download:
 
 [Download the Materials](materials/all_materials.zip)
 
+More resources for Dutch:
+
+- CLIPS word vectors: https://github.com/clips/dutchembeddings
+
+- HuggingFace models: https://huggingface.co/models?language=nl
+
+
 I wish all the participants success with their Text Mining projects!
 
 Ayoub
