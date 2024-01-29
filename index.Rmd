@@ -8,13 +8,15 @@ output:
 ---
 
 # Intro {.sidebar}
+
 This dashboard contains the course materials for the course [S006: Text Analysis with Python](https://utrechtsummerschool.nl/courses/social-sciences/text-analysis-with-python).
 
-
----
+------------------------------------------------------------------------
 
 <!-- <center> -->
+
 <!-- ![](logo.jpg){width=100%} -->
+
 <!-- </center> -->
 
 \
@@ -22,17 +24,15 @@ Course director: [Ayoub Bagheri](https://ayoubbagheri.nl/)
 
 Study load: 0.5 ECTS
 
-Location: Sjoerd Groenman Building, room C024 (Padualaan 14, Utrecht Science Park, https://www.uu.nl/en/sjoerd-groenman-building)
+Location: Online
 
 Full week text mining courses:
 
-- [Applied Text Mining in Python](https://utrechtsummerschool.nl/courses/social-sciences/data-science-applied-text-mining)
+-   [Applied Text Mining in Python](https://utrechtsummerschool.nl/courses/social-sciences/data-science-applied-text-mining)
 
-- [Introduction to Text Mining with R](https://utrechtsummerschool.nl/courses/social-sciences/data-science-introduction-to-text-mining-with-r)
+-   [Introduction to Text Mining with R](https://utrechtsummerschool.nl/courses/social-sciences/data-science-introduction-to-text-mining-with-r)
 
----
-
-
+------------------------------------------------------------------------
 
 # Home
 
@@ -46,48 +46,48 @@ With the rapid growth of digital textual data in many areas of science, there is
 
 The course covers the following topics:
 
-* Review the basic approaches to text mining
-* Understanding and applying current methods for analysing text
-* Defining a text mining pipeline given a practical data science problem
-
+-   Review the basic approaches to text mining
+-   Understanding and applying current methods for analysing text
+-   Defining a text mining pipeline given a practical data science problem
 
 ### Requirements
+
 Participants should have a basic knowledge of data science and programming and a motivation of scripting in Python.
 
 ### Prerequisites
+
 Participants are requested to bring their own laptop for the lab meetings.
 
 ### Certificate
+
 Participants will receive their certificate from the office of Utrecht Summer School one week after the course.
 
 ### Additional references
+
 1- Jurafsky, D., Martin, J.H. (2023). Speech and language processing, third edition. Find online chapters [here](https://web.stanford.edu/~jurafsky/slp3/)
 
-
 2- Eisenstein, J. (2018). Natural Language Processing. Find online chapters [here](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
-
 
 ## Column 2
 
 ### Schedule
 
-| Start time | End time       | Type                |
-|:-----------|:---------------|:--------------------|
-|  09:00     | 10:00          | Introduction        |
-|  10:00     | 10:50          | Practical 1         |
-|            |**Break** |                     |
-|  11:00     | 11:15          | Discussion          |
-|            |**Break**       |                     |
-|  11:30     | 12:30          | Text classification |
-|            |**Lunch break** |                     |
-|  13:30     | 14:20          | Practical 2         |
-|  14:20     | 14:35          | Discussion          |
-|            |**Break** |                     |
-|  14:45     | 15:45          | Word embedding      |
-|            |**Break**       |                     |
-|  16:00     | 16:45          | Practical 3         |
-|  16:45     | 17:00          | Discussion          |
-
+| Start time | End time        | Type                |
+|:-----------|:----------------|:--------------------|
+| 09:00      | 10:00           | Introduction        |
+| 10:00      | 10:50           | Practical 1         |
+|            | **Break**       |                     |
+| 11:00      | 11:15           | Discussion          |
+|            | **Break**       |                     |
+| 11:30      | 12:30           | Text classification |
+|            | **Lunch break** |                     |
+| 13:30      | 14:20           | Practical 2         |
+| 14:20      | 14:35           | Discussion          |
+|            | **Break**       |                     |
+| 14:45      | 15:45           | Word embedding      |
+|            | **Break**       |                     |
+| 16:00      | 16:45           | Practical 3         |
+| 16:45      | 17:00           | Discussion          |
 
 # How to prepare
 
@@ -99,21 +99,21 @@ Dear all,
 
 This winter you will attend the course S006: Text Analysis with Python at the Utrecht Summer School in the Netherlands. In order to achieve a steeper learning curve, we will use some features of the Python programming language with Google Colab. The following steps will guide you through the use of Python and the exercises in this course.
 
-
 <!-- Here you can find some useful information to follow the course online: [this instructional page on MS Teams.](https://www.uu.nl/en/education/quality-and-innovation/remote-teaching/microsoft-teams) -->
 
 <!-- Looking forward to see you all online. -->
 
-_Ayoub Bagheri_
+*Ayoub Bagheri*
 
 ### System requirements
 
 Bring a laptop to the course and make sure you have an internet connection to use Python in Google Colab. If you are using PyCharm or Jupyte Notebook, please also ensure that you have full write and administrative rights to the machine. We will cover programming and compiling in this course. Some corporate laptops come with limited access for their users, so we advise you to bring a personal laptop if you have one.
 
 ### Python in Google Colab
+
 Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. It is a powerful environment for scientific computing.
 
-We expect that many of you will have some experience with Python; for the rest of you, this section will serve as a quick crash course both on the Python programming language and on the use of Python in Google Colab:
+We assume that you have some experience with Python; if not, or if you want to refresh your knowledge, this section will serve as a quick crash course in both the Python programming language and the use of Python in Google Colab:
 
 Follow the [tutorial on Python in Google Colab for the Applied Text Mining course from here.](Python_in_Google_Colab_Applied_Text_Mining.html)
 
@@ -123,13 +123,14 @@ This tutorial is mainly from the [CS231n Python Tutorial With Google Colab](http
 
 ### Alternative approach
 
-I prefer to use Jupyter Notebook or PyCharm when I am not using Google Colab. 
+I prefer to use Jupyter Notebook or PyCharm when I am not using Google Colab.
 
-- You can find an extensive tutorial by JetBrains on how to install and use PyCharm from [here.](https://www.jetbrains.com/help/pycharm/quick-start-guide.html)
+-   You can find an extensive tutorial by JetBrains on how to install and use PyCharm from [here.](https://www.jetbrains.com/help/pycharm/quick-start-guide.html)
 
-- A beginner’s tutorial on how to use Jupyter Notebook: [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+-   A beginner's tutorial on how to use Jupyter Notebook: [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 
 # Lectures
+
 ## Column 1
 
 ### Lectures
@@ -138,11 +139,12 @@ We adapt the course as we go along. To ensure that you are working with the late
 
 You can find the lecture slides here:
 
-- [Lecture 1: Introduction](lectures/lecture_01.pdf)
-- [Lecture 2: Text classification](lectures/lecture_02.pdf)
-- [Lecture 3: Word embedding](lectures/lecture_03.pdf)
+-   [Lecture 1: Introduction](lectures/lecture_01.pdf)
+-   [Lecture 2: Text classification](lectures/lecture_02.pdf)
+-   [Lecture 3: Word embedding](lectures/lecture_03.pdf)
 
 # Practicals
+
 ## Column 1
 
 ### Practicals
@@ -154,33 +156,33 @@ Here you will find the practical files for the lab sessions:
 Practical 1:
 
 <!-- - [Practical 1](practicals/Practical 1/Practical_01.html) -->
-- [Data for Practical 1](practicals/Practical 1/data.zip)
-- [Practical 1_Answers](practicals/Practical 1/Practical_01_answers.html)
 
+-   [Data for Practical 1](practicals/Practical%201/data.zip)
+-   [Practical 1_Answers](practicals/Practical%201/Practical_01_answers.html)
 
 Practical 2:
 
 <!-- * [Practical 2](practicals/Practical 2/Practical_02.html) -->
-* [Practical 2_Answers](practicals/Practical 2/Practical_02_answers.html)
+
+-   [Practical 2_Answers](practicals/Practical%202/Practical_02_answers.html)
 
 Practical 3:
 
 <!-- - [Practical 3](practicals/Practical 3/Practical_03.html) -->
-- [Practical 3_Answers](practicals/Practical 3/Practical_03_answers.html)
 
-
+-   [Practical 3_Answers](practicals/Practical%203/Practical_03_answers.html)
 
 # Archive
+
 All of the course materials are available in one compact file for download:
 
 [Download the Materials](materials/all_materials.zip)
 
 More resources for Dutch:
 
-- CLIPS word vectors: https://github.com/clips/dutchembeddings
+-   CLIPS word vectors: <https://github.com/clips/dutchembeddings>
 
-- HuggingFace models: https://huggingface.co/models?language=nl
-
+-   HuggingFace models: <https://huggingface.co/models?language=nl>
 
 I wish all the participants success with their Text Mining projects!
 
